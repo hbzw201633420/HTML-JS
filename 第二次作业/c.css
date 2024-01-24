@@ -1,0 +1,9 @@
+#zt{
+    font-weight: bold;
+    font-family: MD;
+}
+
+@font-face {
+    font-family: MD;
+    src: url(MD.ttf);
+}
